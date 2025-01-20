@@ -64,3 +64,7 @@ In the third place:
 The program update activity depends on my workload and how popular the program will be. Or in the number of donations to me.
 
 You can also write to me what features you want.
+
+# Distribution
+
+When playing the script, there will be no mention of the author (me). Perhaps in the future I will fix this. So if you want to upload the script somewhere and distribute it, I want you to somehow mention how it was created. But this is not necessary.
