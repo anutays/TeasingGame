@@ -34,3 +34,33 @@ More details about all events below.
 7. Next scene - Go to the next scene. Mainly used with Caption and if you want to go to the next scene without clicking on the window.
 
 8. Change size window.
+
+# List of functionality that may be added (it may change)
+
+In the first place:
+
+1. Ability to open and edit an already created script.
+2. Ability to change created events.
+3. Ability to change the sequence of events.
+4. Ability to copy event parameters to paste into a new one.
+
+In the second place:
+1. Event: download file.
+2. Event: File Launch.
+3. Event: Password entry window.
+4. Event: Play sound.
+5. Ability to create Caption with links to pictures.
+6. Event branching.
+
+In the third place:
+1. Event: Create folder/file.
+2. Event: Registry Change.
+3. Event: Request for admin rights.
+4. Event. Adding a program to startup.
+5. Event. Windows theme change.
+6. Ability to add video to Caption.
+7. Event: Popups.
+
+The program update activity depends on my workload and how popular the program will be. Or in the number of donations to me.
+
+You can also write to me what features you want.
