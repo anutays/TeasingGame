@@ -1,0 +1,4 @@
+;!@Install@!UTF-8!
+Title="SOFTWARE v1.0.0.0"
+RunProgram="TeasingGame.exe"
+;!@InstallEnd@!
