@@ -81,6 +81,8 @@ My Twitter: x.com/Anutasissy
 
 If you find any bugs, you can write to me here or in the Issues tab.
 
+If you want to combine the script and the program, then see Single file Guide.txt, which is located here.
+
 # Donate
 
 BTC: 1JQsfU1BjDXnGoRkMF8579f6b1gjhbva3L
