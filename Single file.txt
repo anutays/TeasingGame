@@ -1,8 +1,12 @@
 1. Download 7z and pack the script and exe into an archive (Requires 7z archive).
 
 2. Download two files that are in the Single File folder here (7zSD.sfx, config.txt).
-
+The executable file should be called TeasingGame.exe. If it is not, you can edit config.txt or rename the file itself.
 
 3. Place these three files in one folder (archive and these two files).
 
-4. Open console, go to the desired folder (cd path), enter: copy /b 7zSD.sfx + config.txt + Archive.7z app.exe (Archive.7z - name of your archive)
+4. Open console, go to the desired folder (cd path), enter: copy /b 7zSD.sfx + config.txt + Archive.7z TeasingGame.exe       (Archive.7z - name of your archive)
+
+5. After that TeasingGame.exe will appear as one file.
+
+PS. If you want to change the icon and properties of the program, you can use Resource Hacker. Also, the icon is stored in the 7zSD.sfx file, so you can probably unpack this file and replace the icon, but I still don't understand how to do it.
