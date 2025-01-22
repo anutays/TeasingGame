@@ -45,21 +45,27 @@ In the first place:
 4. Ability to copy event parameters to paste into a new one.
 
 In the second place:
-1. Event: download file.
-2. Event: File Launch.
-3. Event: Password entry window.
-4. Event: Play sound.
-5. Ability to create Caption with links to pictures.
-6. Event branching.
+1. Caption optimization.
+2. Event: download file.
+3. Event: File Launch.
+4. Event: Password entry window.
+5. Event: Play sound.
+6. Ability to create Caption with links to pictures.
+7. Event branching.
+8. Improving the UI appearance.
 
 In the third place:
 1. Event: Create folder/file.
-2. Event: Registry Change.
-3. Event: Request for admin rights.
-4. Event. Adding a program to startup.
-5. Event. Windows theme change.
-6. Ability to add video to Caption.
-7. Event: Popups.
+2. Event: Lock/unlock wallpaper.
+3. Event: Disable/enable mouse/keyboard.
+4. Event: Disable/enable task manager.
+5. Event: Registry Change.
+6. Event: Request for admin rights.
+7. Event: Adding a program to startup.
+8. Event: Windows theme change.
+9. Ability to add video to Caption.
+10. Event: Encrypt/decrypt file.
+11. Event: Popups.
 
 The program update activity depends on my workload and how popular the program will be. Or in the number of donations to me.
 
@@ -68,3 +74,15 @@ You can also write to me what features you want.
 # Distribution
 
 When playing the script, there will be no mention of the author (me). Perhaps in the future I will fix this. So if you want to upload the script somewhere and distribute it, I want you to somehow mention how it was created. But this is not necessary.
+
+# Other
+
+My Twitter: x.com/Anutasissy
+
+If you find any bugs, you can write to me here or in the Issues tab.
+
+# Donate
+
+BTC: 1JQsfU1BjDXnGoRkMF8579f6b1gjhbva3L
+
+ETH: 0xc89157c02a2539f387d76b3559f1939217e85124
