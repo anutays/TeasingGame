@@ -5,6 +5,8 @@ The script can include such actions as displaying a window with a picture and te
 
 TeasingGame's actions are completely dependent on the script. Therefore, it may harm your computer in some way.
 
+!!! If you have problems with displaying the window, see Known issues !!!
+
 ---The program is still under development.---
 
 # How to use
@@ -39,10 +41,11 @@ More details about all events below.
 
 In the first place:
 
-1. Ability to open and edit an already created script.
-2. Ability to change created events.
-3. Ability to change the sequence of events.
-4. Ability to copy event parameters to paste into a new one.
+1. Instead of WinForms start using WPF (this will fix the first issue).
+2. Ability to open and edit an already created script.
+3. Ability to change created events.
+4. Ability to change the sequence of events.
+5. Ability to copy event parameters to paste into a new one.
 
 In the second place:
 1. Caption optimization.
@@ -52,7 +55,8 @@ In the second place:
 5. Event: Play sound.
 6. Ability to create Caption with links to pictures.
 7. Event branching.
-8. Improving the UI appearance.
+8. Event: event back (creating something like a loop).
+9. Improving the UI appearance.
 
 In the third place:
 1. Event: Create folder/file.
@@ -73,7 +77,13 @@ You can also write to me what features you want.
 
 # Distribution
 
-When playing the script, there will be no mention of the author (me). Perhaps in the future I will fix this. So if you want to upload the script somewhere and distribute it, I want you to somehow mention how it was created. But this is not necessary.
+When playing the script, there will be no mention of the author (me). Perhaps in the future I will fix this. So if you want to upload the script somewhere and distribute it, you can mention me. But this is not necessary.
+
+# Known issues
+
+1. TeasingGame and TeasingGame Maker windows may not display correctly. (Parts of the window components may extend to the lower right side of the window)
+Temporary fix: Right click on desktop, Screen Options, scale and layout to 125%.
+You can also enlarge the TeasingGame Maker window by clicking on the * * * button. It is located in the upper left part of the window.
 
 # Other
 
