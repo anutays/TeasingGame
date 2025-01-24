@@ -1,3 +1,5 @@
+This is a guide from me on how to combine a script and an executable file into one file.
+
 1. Download 7z and pack the script and exe into an archive (Requires 7z archive).
 
 2. Download two files that are in the Single File folder here (7zSD.sfx, config.txt).
