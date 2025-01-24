@@ -7,8 +7,10 @@ TeasingGame's actions are completely dependent on the script. Therefore, it may 
 
 !!! If you have problems with displaying the window, see Known issues !!!
 
-How to download:
+# How to download
+
 Method 1. Code (green button) - Download ZIP.
+
 Method 2. On the right side of the site, find Releases - Find the required version of the program.
 
 # How to use
