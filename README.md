@@ -84,6 +84,8 @@ The program update activity depends on my workload and how popular the program w
 
 You can also write to me what features you want.
 
+
+
 # Distribution
 
 When playing the script, there will be no mention of the author (me). Perhaps in the future I will fix this. So if you want to upload the script somewhere and distribute it, you can mention me. But this is not necessary.
