@@ -84,7 +84,7 @@ The program update activity depends on my workload and how popular the program w
 
 You can also write to me what features you want.
 
-# Create a caption event
+# Create a caption event example
 ![Add caption event picture](https://raw.githubusercontent.com/anutays/TeasingGame/refs/heads/main/Add%20caption%20event.PNG)
 
 # Distribution
