@@ -66,6 +66,7 @@ In the second place:
 7. Event branching.
 8. Event: event back (creating something like a loop).
 9. Improving the UI appearance.
+10. Create a safe TeasingGame that alerts you to all events in the script.
 
 In the third place:
 1. Event: Create folder/file.
