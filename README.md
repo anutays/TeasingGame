@@ -5,6 +5,14 @@ The script can include such actions as displaying a window with a picture and te
 
 TeasingGame's actions are completely dependent on the script. Therefore, it may harm your computer in some way.
 
+# Changes in 0.1.1
+
+1. I changed a lot of things in the user interface, so there should be no problems with its display.
+
+2. Also, previously created event parameters are not cleared after opening another tab.
+
+I also posted the program code. Some antiviruses detect viruses in them, but this is a false positive.
+
 # How to download
 
 Method 1. Code (green button) - Download ZIP.
