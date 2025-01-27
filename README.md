@@ -5,8 +5,6 @@ The script can include such actions as displaying a window with a picture and te
 
 TeasingGame's actions are completely dependent on the script. Therefore, it may harm your computer in some way.
 
-!!! If you have problems with displaying the window, see Known issues !!!
-
 # How to download
 
 Method 1. Code (green button) - Download ZIP.
@@ -15,7 +13,7 @@ Method 2. On the right side of the site, find Releases - Find the required versi
 
 # How to use
 
-1. Start TeasingGame Maker, enter the following parameters: Name program (window title), Size window, Name folder (the name of the folder where the files will be stored), Main window opacity, Icon. After that, click Create.
+1. Start TeasingGame Maker, enter the following parameters: Name program (window title), Size window, Name folder (the name of the folder where the files will be stored), Main window visible, Icon. After that, click Create.
 
 2. Next, we need to define what a scene and an event are. An event is an action that occurs in sequence according to a list. The scene is a storage of events. To add an event to a scene, you need to select the desired scene in the list, choose the desired event and click the Create button.
 By default, the script starts with the first scene. After all events on the scene are finished, the events on the next scene immediately begin to happen. But if there is a Caption event on the scene, then the scene will switch only when you click on the window, even if all events have already taken place on this scene.
@@ -29,7 +27,7 @@ More details about all events below.
 
 2. MessageBox - Window with text. Stops the program. After pressing the button, the program continues to work.
 
-3. Change opacity - Changes the opacity of the window. If it is 0%, the icon will disappear from the taskbar.
+3. Visible window - Enable or disable visibility of the main window.
 
 4. Change wallpaper.
 
@@ -45,11 +43,10 @@ More details about all events below.
 
 In the first place:
 
-1. Instead of WinForms start using WPF (this will fix the first issue).
-2. Ability to open and edit an already created script.
-3. Ability to change created events.
-4. Ability to change the sequence of events.
-5. Ability to copy event parameters to paste into a new one.
+1. Ability to open and edit an already created script.
+2. Ability to change created events.
+3. Ability to change the sequence of events.
+4. Ability to copy event parameters to paste into a new one.
 
 In the second place:
 1. Caption optimization.
@@ -84,10 +81,6 @@ You can also write to me what features you want.
 When playing the script, there will be no mention of the author (me). Perhaps in the future I will fix this. So if you want to upload the script somewhere and distribute it, you can mention me. But this is not necessary.
 
 # Known issues
-
-1. TeasingGame and TeasingGame Maker windows may not display correctly. (Parts of the window components may extend to the lower right side of the window)
-Temporary fix: Right click on desktop, Screen Options, scale and layout to 125%.
-You can also enlarge the TeasingGame Maker window by clicking on the * * * button. It is located in the upper left part of the window.
 
 # Other
 
