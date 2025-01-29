@@ -80,6 +80,7 @@ In the third place:
 9. Ability to add video to Caption.
 10. Event: Encrypt/decrypt file.
 11. Event: Popups.
+12. Event: Shutdown/restart your computer.
 
 The program update activity depends on my workload and how popular the program will be. Or in the number of donations to me.
 
