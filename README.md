@@ -106,7 +106,3 @@ If you want to combine the script and the program, then see Single file Guide.tx
 # Donate
 
 Telegram bot: https://t.me/tribute/app?startapp=dmM2
-
-BTC: 1JQsfU1BjDXnGoRkMF8579f6b1gjhbva3L
-
-ETH: 0xc89157c02a2539f387d76b3559f1939217e85124
